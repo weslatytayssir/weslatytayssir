@@ -1,6 +1,7 @@
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/bassimtbb)
 <br>
 <br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Tayssir%20Weslaty-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/tayssir-weslaty-b48a7625a/)
 [![Mail](https://img.shields.io/badge/Gmail-weslaty.tayssir@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:wesletytayssir@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Tayssir%20Weslaty-purple?logo=Instagram&logoColor=purple&labelColor=black)](https://www.instagram.com/tayssirweslaty/)
 [![Facebook](https://img.shields.io/badge/Facebook-Tayssir%20Weslaty-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/tayssir.wesslaty)
